@@ -6,7 +6,7 @@
 
 package teoremapitagoras;
 
-import Vista.Principal;
+import Vista.frmPitagoras;
 
 /**
  *
@@ -16,7 +16,7 @@ public class TeoremaPitagoras {
 
     
     public static void main(String[] args) {
-        Principal p = new Principal();
+        frmPitagoras p = new frmPitagoras();
         p.setVisible(true);
     }
     
