@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Julieth Valencia
+ * @author Julieth Valencia .
  */
 public class Serie extends javax.swing.JFrame {
     public double serie [];
